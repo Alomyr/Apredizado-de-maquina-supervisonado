@@ -21,15 +21,19 @@ No **Aprendizado Supervisionado**, os algoritmos são treinados utilizando dados
 
 ## 📂 Estrutura do Repositório
 
-```
-Apredizado-de-maquina-supervisonado
-├─ README.md
-├─ Unidade01
-│  ├─ Atividade01.ipynb
-│  └─ Atividade02.ipynb
-└─ docs
-   └─ plano.pdf
+**Root Path:** `/home/alomyr/Projetos/Apredizado-de-maquina-supervisonado`
 
+```
+├── 📁 Unidade01
+│   ├── 📁 Atividades
+│   │   ├── 📄 Atividade01.ipynb
+│   │   └── 📄 Atividade02.ipynb
+│   └── 📁 notebooks
+│       └── 📄 2-análise exploratória de dados.ipynb
+├── 📁 docs
+│   └── 📕 plano.pdf
+├── 📄 Coneccao.ipynb
+└── 📝 README.md
 ```
 
 ---
